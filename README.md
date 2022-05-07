@@ -1,2 +1,3 @@
 # spring-boot-example
-SpringBoot Examples
+SpringBoot Examples 
+To demostrate a simple REST API exposed.
